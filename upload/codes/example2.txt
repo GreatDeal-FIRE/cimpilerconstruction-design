@@ -1,0 +1,5 @@
+
+# Rieko Brian
+#BCSC01/0047
+
+print(4 + 4 - 2);
